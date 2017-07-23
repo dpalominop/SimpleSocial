@@ -58,3 +58,4 @@ gem 'haml-rails'
 
 #Devise
 gem 'devise'
+gem 'omniauth-facebook'
